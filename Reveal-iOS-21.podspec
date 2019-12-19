@@ -9,7 +9,7 @@ Pod::Spec.new do |s|
                    DESC
   s.homepage     = "https://github.com/Minlison/Reveal-iOS-21"
   s.license      = { :type => "MIT"}
-  s.author             = { "yuanhang" => "yuanhang@100tal.com" }
+  s.author             = { "yuanhang" => "yuanhang.1991@163.com" }
   s.platform     = :ios, "8.0"
   s.source       = { :git => "https://github.com/Minlison/Reveal-iOS-21.git", :branch => "master" }
   s.requires_arc = true
