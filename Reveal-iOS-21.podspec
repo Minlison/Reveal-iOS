@@ -16,6 +16,6 @@ Pod::Spec.new do |s|
   s.compiler_flags = "-Objc"
   s.frameworks = "CoreGraphics", "CFNetwork", "QuartzCore"
   s.libraries = "z"
-  s.vendored_frameworks = "RevealServer.framework"
+  s.vendored_frameworks = "21/RevealServer.framework"
   s.xcconfig = { "LD_RUNPATH_SEARCH_PATHS": "$(inherited) @executable_path/Frameworks @loader_path/Frameworks" }
 end
